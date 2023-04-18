@@ -1,4 +1,4 @@
-lass bind::acl::wrapper (
+class bind::acl::wrapper (
   $resources = {},
   $defaults = {},
 ) {
